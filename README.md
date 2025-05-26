@@ -10,3 +10,4 @@ Project Title: TCS Stock Data Analysis and Prediction
 Objective
 Analyze the historical data of TCS stock to gain insights into stock behavior, identify
 trends, and forecast future stock prices.
+ -------->  above  .cvs files are use as sample data 
